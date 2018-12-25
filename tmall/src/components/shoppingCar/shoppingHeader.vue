@@ -19,7 +19,6 @@
         width: 100%;
         height: 0.44rem;
         background-color: #fe0036;
-        background-size: 100% 100%;
         font-size: 0.13rem;
         color: #ffffff;
         align-items: center;

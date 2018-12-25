@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f437342e-a1c4-416e-a427-6e0b95cbbd9c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmall/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tmall/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tmall/src/components/index/indexFooter.vue" beforeDir="false" afterPath="$PROJECT_DIR$/tmall/src/components/index/indexFooter.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmall/src/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/tmall/src/pages/index.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tmall/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/tmall/src/router/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,20 +16,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tmall/src/components/shoppingCar/shoppingHeader.vue">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tmall/src/components/shoppingCar/shoppingNavClassly.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+            <state relative-caret-position="471">
+              <caret line="98" column="22" selection-start-line="98" selection-start-column="22" selection-end-line="98" selection-end-column="22" />
+              <folding>
+                <element signature="e#489#495#0" expanded="true" />
+                <element signature="e#495#501#0" expanded="true" />
+                <element signature="e#501#507#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tmall/src/pages/shoppingCar.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+            <state relative-caret-position="304">
+              <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -61,12 +63,13 @@
         <option value="$PROJECT_DIR$/tmall/src/components/index/indexFooter.vue" />
         <option value="$PROJECT_DIR$/tmall/src/pages/index.vue" />
         <option value="$PROJECT_DIR$/tmall_ex/routes/index.js" />
-        <option value="$PROJECT_DIR$/tmall/src/components/shoppingCar/shoppingHeader.vue" />
         <option value="$PROJECT_DIR$/tmall/src/pages/shoppingCar.vue" />
+        <option value="$PROJECT_DIR$/tmall/src/components/shoppingCar/shoppingHeader.vue" />
+        <option value="$PROJECT_DIR$/tmall/src/components/shoppingCar/shoppingNavClassly.vue" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-40" />
     <option name="y" value="101" />
     <option name="width" value="1241" />
@@ -119,6 +122,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="t" type="b2602c69:ProjectViewProjectNode" />
+              <item name="t" type="462c0819:PsiDirectoryNode" />
+              <item name="tmall" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -153,7 +162,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545706089917</updated>
-      <workItem from="1545706092744" duration="7753000" />
+      <workItem from="1545706092744" duration="16443000" />
     </task>
     <task id="LOCAL-00001" summary="2018.12.17">
       <created>1545708779754</created>
@@ -166,7 +175,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7753000" />
+    <option name="totallyTimeSpent" value="16443000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="886" extended-state="6" />
@@ -177,7 +186,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.28419656" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.25763613" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" weight="0.32934928" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -295,17 +304,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tmall/src/components/shoppingCar/shoppingHeader.vue">
+    <entry file="file://$PROJECT_DIR$/tmall/src/pages/shoppingCar.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        <state relative-caret-position="304">
+          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tmall/src/pages/shoppingCar.vue">
+    <entry file="file://$PROJECT_DIR$/tmall/src/components/shoppingCar/shoppingHeader.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+        <state relative-caret-position="342">
+          <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall/src/components/shoppingCar/shoppingNavClassly.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="98" column="22" selection-start-line="98" selection-start-column="22" selection-end-line="98" selection-end-column="22" />
+          <folding>
+            <element signature="e#489#495#0" expanded="true" />
+            <element signature="e#495#501#0" expanded="true" />
+            <element signature="e#501#507#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
