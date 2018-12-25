@@ -1,11 +1,14 @@
 <template>
   <div class="index">
     <index-header></index-header>
-    <div class="nav">
-      <index-seach></index-seach>
-      <index-classiy></index-classiy>
+    <div class="n">
+      <div class="nav">
+        <index-seach></index-seach>
+        <index-classiy></index-classiy>
+      </div>
+      <index-banner></index-banner>
     </div>
-    <index-banner></index-banner>
+    <index-footer></index-footer>
   </div>
 </template>
 
@@ -14,9 +17,11 @@
     import IndexSeach from "../components/index/indexSeach";
     import IndexClassiy from "../components/index/indexClassiy";
     import IndexBanner from "../components/index/indexBanner";
+    import IndexFooter from "../components/index/indexFooter";
     export default {
       name: "index",
       components: {
+          IndexFooter,
           IndexBanner,
           IndexClassiy,
           IndexSeach,
@@ -32,13 +37,16 @@
     display: flex;
     flex-direction: column;
   }
-  .nav{
+  .n{
+    width: 100%;
+    flex: 1;
+    overflow-y: scroll;
+    overflow-x: hidden;
+  }
+  .n .nav{
     padding: 0 0.08rem;
     width: 100%;
     box-sizing: border-box;
     background-color: #2c3039;
-    flex: 1;
-    overflow-y: scroll;
-    overflow-x: hidden;
   }
 </style>
