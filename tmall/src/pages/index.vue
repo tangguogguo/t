@@ -5,6 +5,7 @@
       <index-seach></index-seach>
       <index-classiy></index-classiy>
     </div>
+    <index-banner></index-banner>
   </div>
 </template>
 
@@ -12,12 +13,14 @@
     import IndexHeader from "../components/index/indexHeader";
     import IndexSeach from "../components/index/indexSeach";
     import IndexClassiy from "../components/index/indexClassiy";
+    import IndexBanner from "../components/index/indexBanner";
     export default {
       name: "index",
       components: {
-        IndexClassiy,
-        IndexSeach,
-        IndexHeader
+          IndexBanner,
+          IndexClassiy,
+          IndexSeach,
+          IndexHeader
       }
     }
 </script>
